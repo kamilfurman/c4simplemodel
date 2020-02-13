@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1638px" preserveAspectRatio="none" style="width:1002px;height:1638px;" version="1.1" viewBox="0 0 1002 1638" width="1002px" zoomAndPan="magnify"><defs/><g><!--cluster plc--><rect fill="#FFFFFF" height="1149" style="stroke: #A2A2A2; stroke-width: 1.5;" width="632" x="22" y="316"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="99" x="288.5" y="335.104">Big Bank plc</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="153" x="261.5" y="352.6201">[Big Bank plc data center]</text><!--cluster dn--><rect fill="#FFFFFF" height="296" style="stroke: #A2A2A2; stroke-width: 1.5;" width="280" x="46" y="381"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="113" y="400.104">bigbank-api***</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18" x="241" y="400.104">x8</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="112" x="130" y="417.6201">[Ubuntu 16.04 LTS]</text><!--cluster apache--><rect fill="#FFFFFF" height="207" style="stroke: #A2A2A2; stroke-width: 1.5;" width="232" x="70" y="446"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="124.5" y="465.104">Apache Tomcat</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="126.5" y="482.6201">[Apache Tomcat 8.x]</text><!--cluster bigbankdb01--><rect fill="#FFFFFF" height="324" style="stroke: #A2A2A2; stroke-width: 1.5;" width="284" x="46" y="743"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="109" x="133.5" y="762.104">bigbank-db01</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="112" x="132" y="779.6201">[Ubuntu 16.04 LTS]</text><!--cluster oracle--><rect fill="#FFFFFF" height="235" style="stroke: #A2A2A2; stroke-width: 1.5;" width="236" x="70" y="808"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="123.5" y="827.104">Oracle - Primary</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="70" x="153" y="844.6201">[Oracle 12c]</text><!--cluster bigbankdb02--><rect fill="#FFFFFF" height="324" style="stroke: #A2A2A2; stroke-width: 1.5;" width="284" x="162" y="1117"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="109" x="249.5" y="1136.104">bigbank-db02</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="112" x="248" y="1153.6201">[Ubuntu 16.04 LTS]</text><!--cluster oracle2--><rect fill="#FFFFFF" height="235" style="stroke: #A2A2A2; stroke-width: 1.5;" width="236" x="186" y="1182"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="148" x="230" y="1201.104">Oracle - Secondary</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="70" x="269" y="1218.6201">[Oracle 12c]</text><!--cluster bb2--><rect fill="#FFFFFF" height="296" style="stroke: #A2A2A2; stroke-width: 1.5;" width="280" x="350" y="381"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="131" x="401" y="400.104">bigbank-web***</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18" x="561" y="400.104">x4</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="112" x="434" y="417.6201">[Ubuntu 16.04 LTS]</text><!--cluster apache2--><rect fill="#FFFFFF" height="207" style="stroke: #A2A2A2; stroke-width: 1.5;" width="232" x="374" y="446"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="428.5" y="465.104">Apache Tomcat</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="430.5" y="482.6201">[Apache Tomcat 8.x]</text><!--cluster mob--><rect fill="#FFFFFF" height="226" style="stroke: #A2A2A2; stroke-width: 1.5;" width="250" x="61" y="24"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="203" x="84.5" y="43.104">Customer's mobile device</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="134" x="119" y="60.6201">[Apple IOS or Android]</text><!--cluster comp--><rect fill="#FFFFFF" height="315" style="stroke: #A2A2A2; stroke-width: 1.5;" width="288" x="678" y="747.5"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="172" x="736" y="766.604">Customer's computer</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="220" x="712" y="784.1201">[Mircosoft Windows of Apple macOS]</text><!--cluster browser--><rect fill="#FFFFFF" height="226" style="stroke: #A2A2A2; stroke-width: 1.5;" width="240" x="702" y="812.5"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="104" x="770" y="831.604">Web Browser</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="194" x="725" y="849.1201">[Google Chrome, Mozilla Firefox]</text><!--entity api--><rect fill="#438DD5" height="134.4078" style="stroke: #3C7FC0; stroke-width: 1.5;" width="199" x="86.5" y="503"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="123" x="124.5" y="530.104">API Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="127" y="547.6201">[Java and Spring MVC]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="188" y="566.1021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="96.5" y="585.17">Provides Internet Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="124.5" y="604.2379">functionality via a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="111" x="130.5" y="623.3058">JSON/HTTPS API.</text><!--entity db--><path d="M85.5,875 C85.5,865 188,865 188,865 C188,865 290.5,865 290.5,875 L290.5,1017.4757 C290.5,1027.4757 188,1027.4757 188,1027.4757 C188,1027.4757 85.5,1027.4757 85.5,1017.4757 L85.5,875 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M85.5,875 C85.5,885 188,885 188,885 C188,885 290.5,885 290.5,875 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="150" y="906.104">Database</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="159" x="108.5" y="923.6201">[Relational Database Schema]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="190" y="942.1021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="106.5" y="961.17">Stores user registration</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="137" x="117.5" y="980.2379">information, hashed</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="181" x="95.5" y="999.3058">authentication credentials,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="134" y="1018.3738">access logs, etc.</text><!--entity db2--><path d="M201.5,1249 C201.5,1239 304,1239 304,1239 C304,1239 406.5,1239 406.5,1249 L406.5,1391.4757 C406.5,1401.4757 304,1401.4757 304,1401.4757 C304,1401.4757 201.5,1401.4757 201.5,1391.4757 L201.5,1249 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M201.5,1249 C201.5,1259 304,1259 304,1259 C304,1259 406.5,1259 406.5,1249 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="266" y="1280.104">Database</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="159" x="224.5" y="1297.6201">[Relational Database Schema]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="306" y="1316.1021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="222.5" y="1335.17">Stores user registration</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="137" x="233.5" y="1354.2379">information, hashed</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="181" x="211.5" y="1373.3058">authentication credentials,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="250" y="1392.3738">access logs, etc.</text><!--entity web--><rect fill="#438DD5" height="134.4078" style="stroke: #3C7FC0; stroke-width: 1.5;" width="199" x="390.5" y="503"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="425" y="530.104">Web Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="431" y="547.6201">[Java and Spring MVC]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="492" y="566.1021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="400.5" y="585.17">Delivers the static content</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="170" x="403" y="604.2379">and the Internet Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="162" x="409" y="623.3058">single page application.</text><!--entity mobile--><rect fill="#438DD5" height="153.4757" style="stroke: #3C7FC0; stroke-width: 1.5;" width="218" x="77" y="81"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="141.5" y="108.104">Mobile App</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="160" y="125.6201">[Xamarin]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="188" y="144.1021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="186" x="91" y="163.17">Provides a limited subset of</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="114" y="182.2379">the Internet Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="198" x="87" y="201.3058">functionality to customers via</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="119.5" y="220.3738">their mobile device.</text><!--entity spa--><rect fill="#438DD5" height="153.4757" style="stroke: #3C7FC0; stroke-width: 1.5;" width="208" x="718" y="869.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="188" x="728" y="896.604">Single Page Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="129" x="757.5" y="914.1201">[JavaScript and Angular]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="824" y="932.6021"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="730.5" y="951.67">Provides all of the Internet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="740" y="970.7379">Banking functionality to</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="739.5" y="989.8058">customers via their web</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="59" x="792.5" y="1008.8738">browser.</text><!--link mobile to api--><path d="M186,234.27 C186,308.44 186,420.74 186,494.48 " fill="none" id="mobile-api" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="186,502.82,189,494.82,183,494.82,186,502.82" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="187" y="279.8281">Makes API calls to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="65" x="208" y="296.1722">[json/HTTPS]</text><!--link spa to api--><path d="M737.04,869.41 C683.6,825.1 611.43,770.95 540,735 C471.18,700.36 444.39,716.34 374,685 C346.31,672.67 317.71,657.03 291.43,641.3 " fill="none" id="spa-api" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="284.44,637.09,289.7462,643.7866,292.8411,638.6463,284.44,637.09" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="521" y="706.8281">Makes API calls to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="65" x="542" y="723.1722">[json/HTTPS]</text><!--link web to spa--><path d="M589.83,630.83 C615.65,648.93 642.28,670.13 664,693 C711.64,743.15 752.68,809.81 780.99,861.98 " fill="none" id="web-spa" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="784.9,869.24,783.7548,860.7731,778.4699,863.6139,784.9,869.24" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="87" x="718" y="706.8281">Delivers to the</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="144" x="691" y="723.1722">customer's web browser</text><!--link api to db--><path d="M186.35,637 C186.68,698.06 187.17,789.28 187.53,856.61 " fill="none" id="api-db" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="187.57,864.7,190.5271,856.684,184.5272,856.7162,187.57,864.7" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="187" y="706.8281">Reads from and writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="31" x="246" y="723.1722">[JDBC]</text><!--link api to db2--><path d="M285.81,625.92 C309.42,644.01 331.6,666.44 345,693 C432.97,867.43 377.54,1104.75 336.47,1231.19 " fill="none" id="api-db2" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="333.91,1238.99,339.2596,1232.328,333.56,1230.4532,333.91,1238.99" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="392" y="942.8281">Reads from and writes to</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="31" x="451" y="959.1722">[JDBC]</text><!--link db to db2--><path d="M213.03,1027.26 C231.74,1087.28 257.31,1169.28 276.58,1231.07 " fill="none" id="db-db2" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="279.02,1238.88,279.5,1230.3495,273.7725,1232.1373,279.02,1238.88" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="236" y="1096.8281">Replicates data to</text><rect fill="#DDDDDD" height="128.4075" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="182" x="809" y="1499"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="871" y="1520.9659"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="33" x="875" y="1520.9659">Type</text><rect fill="#08427B" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="815" y="1525.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="839" y="1540.0339"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="875" y="1540.0339">person</text><rect fill="#686868" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="815" y="1544.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="839" y="1559.1018"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="875" y="1559.1018">external person</text><rect fill="#1168BD" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="815" y="1563.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="827" y="1578.1697"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="875" y="1578.1697">system</text><rect fill="#999999" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="815" y="1582.2717"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="839" y="1597.2376"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="875" y="1597.2376">external system</text><rect fill="#438DD5" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="815" y="1601.3396"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="827" y="1616.3055"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="64" x="875" y="1616.3055">container</text><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1506" y2="1506"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1525.0679" y2="1525.0679"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1544.1358" y2="1544.1358"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1563.2038" y2="1563.2038"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1582.2717" y2="1582.2717"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1601.3396" y2="1601.3396"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="985" y1="1620.4075" y2="1620.4075"/><line style="stroke: #000000; stroke-width: 1.0;" x1="815" x2="815" y1="1506" y2="1620.4075"/><line style="stroke: #000000; stroke-width: 1.0;" x1="871" x2="871" y1="1506" y2="1620.4075"/><line style="stroke: #000000; stroke-width: 1.0;" x1="985" x2="985" y1="1506" y2="1620.4075"/><!--
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #08427B
+BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #686868
+BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #1168BD
+BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #999999
+BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #1168BD
+BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #999999
+BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<node>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #000000
+    BorderColor #A2A2A2
+    BorderStyle solid
+}
+
+
+hide stereotype
+legend right
+|=              |= Type |
+|<#08427B>      | person |
+|<#686868>      | external person |
+|<#1168BD>   | system |
+|<#999999>      | external system |
+|<#438DD5>   | container |
+endlegend
+
+rectangle "==Big Bank plc\n<size:12>[Big Bank plc data center]</size>" <<node>> as plc{
+    rectangle "==bigbank-api***\tx8\n<size:12>[Ubuntu 16.04 LTS]</size>" <<node>> as dn{
+        rectangle "==Apache Tomcat\n<size:12>[Apache Tomcat 8.x]</size>" <<node>> as apache{
+rectangle "==API Application\n//<size:12>[Java and Spring MVC]</size>//\n\n Provides Internet Banking functionality via a JSON/HTTPS API." <<container>> as api
+        }
+    }
+    rectangle "==bigbank-db01\n<size:12>[Ubuntu 16.04 LTS]</size>" <<node>> as bigbankdb01{
+        rectangle "==Oracle - Primary\n<size:12>[Oracle 12c]</size>" <<node>> as oracle{
+database "==Database\n//<size:12>[Relational Database Schema]</size>//\n\n Stores user registration information, hashed authentication credentials, access logs, etc." <<container>> as db
+        }
+    }
+    rectangle "==bigbank-db02\n<size:12>[Ubuntu 16.04 LTS]</size>" <<node>> as bigbankdb02{
+        rectangle "==Oracle - Secondary\n<size:12>[Oracle 12c]</size>" <<node>> as oracle2{
+database "==Database\n//<size:12>[Relational Database Schema]</size>//\n\n Stores user registration information, hashed authentication credentials, access logs, etc." <<container>> as db2
+        }
+    }
+    rectangle "==bigbank-web***\tx4\n<size:12>[Ubuntu 16.04 LTS]</size>" <<node>> as bb2{
+        rectangle "==Apache Tomcat\n<size:12>[Apache Tomcat 8.x]</size>" <<node>> as apache2{
+rectangle "==Web Application\n//<size:12>[Java and Spring MVC]</size>//\n\n Delivers the static content and the Internet Banking single page application." <<container>> as web
+        }
+    }
+}
+
+rectangle "==Customer's mobile device\n<size:12>[Apple IOS or Android]</size>" <<node>> as mob{
+rectangle "==Mobile App\n//<size:12>[Xamarin]</size>//\n\n Provides a limited subset of the Internet Banking functionality to customers via their mobile device." <<container>> as mobile
+}
+
+rectangle "==Customer's computer\n<size:12>[Mircosoft Windows of Apple macOS]</size>" <<node>> as comp{
+    rectangle "==Web Browser\n<size:12>[Google Chrome, Mozilla Firefox]</size>" <<node>> as browser{
+rectangle "==Single Page Application\n//<size:12>[JavaScript and Angular]</size>//\n\n Provides all of the Internet Banking functionality to customers via their web browser." <<container>> as spa
+    }
+}
+
+mobile - ->> api : **Makes API calls to**\n//<size:12>[json/HTTPS]</size>//
+spa - ->> api : **Makes API calls to**\n//<size:12>[json/HTTPS]</size>//
+web - ->> spa : **Delivers to the customer's web browser**
+api - ->> db : **Reads from and writes to**\n//<size:12>[JDBC]</size>//
+api - ->> db2 : **Reads from and writes to**\n//<size:12>[JDBC]</size>//
+db - ->> db2 : **Replicates data to**
+
+@enduml
+
+PlantUML version 1.2019.06(Fri May 24 19:10:25 CEST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_242-b08
+Operating System: Linux
+OS Version: 5.4.18-1-MANJARO
+Default Encoding: UTF-8
+Language: pl
+Country: PL
+--></g></svg>

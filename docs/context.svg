@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="738px" preserveAspectRatio="none" style="width:467px;height:738px;" version="1.1" viewBox="0 0 467 738" width="467px" zoomAndPan="magnify"><defs/><g><!--entity pbc--><rect fill="#08427B" height="120.7878" style="stroke: #073B6F; stroke-width: 1.5;" width="217" x="155.5" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="142" x="191" y="35.104">Personal Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="225" y="56.8961">Customer</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="266" y="76.55"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="193" x="165.5" y="95.6179">A customer of the bank, with</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="182" y="114.6859">personal bank accounts.</text><!--entity ibs--><rect fill="#1168BD" height="158.9237" style="stroke: #3C7FC0; stroke-width: 1.5;" width="219" x="64.5" y="207"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="139" x="102.5" y="234.104">Internet Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="58" x="145" y="255.8961">System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="176" y="275.55"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="168" x="88" y="294.6179">Allows customers to view</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="195" x="74.5" y="313.6859">information about their bank</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="105" y="332.7538">accounts, and make</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="139" y="351.8217">payments.</text><!--entity es--><rect fill="#999999" height="98.9958" style="stroke: #8A8A8A; stroke-width: 1.5;" width="186" x="261" y="480.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="111" x="298.5" y="507.604">E-mail system</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="356" y="527.258"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="149" x="277.5" y="546.3259">The internal Microsoft</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="271" y="565.3938">Exchange e-mail system.</text><!--entity mbs--><rect fill="#999999" height="139.8558" style="stroke: #8A8A8A; stroke-width: 1.5;" width="220" x="6" y="460"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="161" x="33.5" y="487.104">Mainframe Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="58" x="87" y="508.8961">System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="118" y="528.55"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="17.5" y="547.6179">Stores all of the core banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="16" y="566.6859">information about customers,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="183" x="24.5" y="585.7538">accounts, transactions, etc.</text><!--link pbc to ibs--><path d="M239.17,129.09 C230.15,150.73 219.78,175.63 210,199.11 " fill="none" id="pbc-ibs" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="206.84,206.68,212.6819,200.4452,207.1418,198.1413,206.84,206.68" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="225" y="172.8281">Uses</text><!--link es to pbc--><path d="M347.55,480.44 C338.79,417.15 321.81,303.21 301,207 C296.02,183.98 289.62,159.05 283.55,136.82 " fill="none" id="es-pbc" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="281.42,129.08,280.656,137.5898,286.4398,135.9939,281.42,129.08" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="98" x="330" y="291.3281">Sends e-mails to</text><!--link ibs to es--><path d="M205.31,366.12 C215.72,387.82 228.42,410.7 243,430 C255.09,446.01 270.06,461.42 285.06,475.12 " fill="none" id="ibs-es" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="291.02,480.48,287.0675,472.9052,283.0614,477.3719,291.02,480.48" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="83" x="244" y="409.8281">Sends e-mails</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="35" x="268" y="426.1722">[SMTP]</text><!--link ibs to mbs--><path d="M150.76,366.12 C148.02,376.15 145.37,386.29 143,396 C138.64,413.86 134.43,433.2 130.68,451.45 " fill="none" id="ibs-mbs" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="129,459.74,133.5285,452.4948,127.6479,451.3037,129,459.74" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="144" y="417.8281">Uses</text><rect fill="#DDDDDD" height="109.3396" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="182" x="274" y="618"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="336" y="639.9659"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="33" x="340" y="639.9659">Type</text><rect fill="#08427B" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="280" y="644.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="304" y="659.0339"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="340" y="659.0339">person</text><rect fill="#686868" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="280" y="663.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="304" y="678.1018"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="340" y="678.1018">external person</text><rect fill="#1168BD" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="280" y="682.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="292" y="697.1697"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="340" y="697.1697">system</text><rect fill="#999999" height="19.0679" style="stroke: none; stroke-width: 1.0;" width="56" x="280" y="701.2717"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="304" y="716.2376"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="340" y="716.2376">external system</text><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="625" y2="625"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="644.0679" y2="644.0679"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="663.1358" y2="663.1358"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="682.2038" y2="682.2038"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="701.2717" y2="701.2717"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="450" y1="720.3396" y2="720.3396"/><line style="stroke: #000000; stroke-width: 1.0;" x1="280" x2="280" y1="625" y2="720.3396"/><line style="stroke: #000000; stroke-width: 1.0;" x1="336" x2="336" y1="625" y2="720.3396"/><line style="stroke: #000000; stroke-width: 1.0;" x1="450" x2="450" y1="625" y2="720.3396"/><!--
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #08427B
+BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #686868
+BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #1168BD
+BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #999999
+BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #1168BD
+BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+StereotypeFontColor #FFFFFF
+FontColor #FFFFFF
+BackgroundColor #999999
+BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|=              |= Type |
+|<#08427B>      | person |
+|<#686868>      | external person |
+|<#1168BD>   | system |
+|<#999999>      | external system |
+endlegend
+
+rectangle "==Personal Banking Customer\n\n A customer of the bank, with personal bank accounts." <<person>> as pbc
+rectangle "==Internet Banking System\n\n Allows customers to view information about their bank accounts, and make payments." <<system>> as ibs
+rectangle "==E-mail system\n\n The internal Microsoft Exchange e-mail system." <<external_system>> as es
+rectangle "==Mainframe Banking System\n\n Stores all of the core banking information about customers, accounts, transactions, etc." <<external_system>> as mbs
+
+pbc - ->> ibs : **Uses**
+es - ->> pbc : **Sends e-mails to**
+ibs - ->> es : **Sends e-mails**\n//<size:12>[SMTP]</size>//
+ibs - ->> mbs : **Uses**
+@enduml
+
+PlantUML version 1.2019.06(Fri May 24 19:10:25 CEST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_242-b08
+Operating System: Linux
+OS Version: 5.4.18-1-MANJARO
+Default Encoding: UTF-8
+Language: pl
+Country: PL
+--></g></svg>
